@@ -1,2 +1,1 @@
-console.log("I Love India");
-History
+consol.log("new receipies")
