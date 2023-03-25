@@ -1,1 +1,1 @@
-consol.log("new receipies")
+consol.log("nee life")
